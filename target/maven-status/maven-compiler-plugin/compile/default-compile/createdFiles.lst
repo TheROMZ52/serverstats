@@ -1,0 +1,5 @@
+com\mahbod\serverstats\WebServer.class
+com\mahbod\serverstats\StatsListener.class
+com\mahbod\serverstats\ServerStatsPlugin.class
+com\mahbod\serverstats\SimpleJson.class
+com\mahbod\serverstats\StatsDatabase.class

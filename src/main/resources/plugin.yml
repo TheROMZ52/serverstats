@@ -1,0 +1,10 @@
+name: ServerStats
+version: 1.0.0
+main: com.mahbod.serverstats.ServerStatsPlugin
+api-version: '1.21'
+author: Mahbod
+description: Tracks server stats and serves a live public web dashboard, no external process needed.
+commands:
+  serverstats:
+    description: Manage the ServerStats web dashboard
+    usage: /<command> [port|reload]

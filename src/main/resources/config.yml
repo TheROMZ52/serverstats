@@ -1,0 +1,5 @@
+# ServerStats config
+web-port: 8123
+# 0.0.0.0 = listen on all interfaces (needed for most host panels)
+bind-address: "0.0.0.0"
+server-name: "My Server"
